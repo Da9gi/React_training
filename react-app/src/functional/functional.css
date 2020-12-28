@@ -1,0 +1,40 @@
+
+.table{
+    border-collapse: collapse;
+    width: 90%;
+}
+
+/* table, th, td {
+    border: 1px solid red;
+} */
+
+.shopping {
+    border: 1px solid blue;
+}
+
+td {
+    padding:0 50px;
+}
+
+th {
+    height: 50px;
+}
+
+.todo {
+   border: 5px solid red;
+   border-radius: 10px;
+   background-color: yellow;
+   color: navy;
+   text-align: justify;
+}
+
+.button {
+    background-color: blue;
+    border: 5px solid blue;
+    color: white;
+    border-radius: 10px;
+}
+
+.boxColor {
+    text-decoration-color: black;
+}

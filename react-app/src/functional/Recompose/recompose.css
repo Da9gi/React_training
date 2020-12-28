@@ -1,0 +1,13 @@
+.openCard {
+    content: "▼ ";
+}
+
+.closeCard .body{
+    content: "► ";
+    display: none;
+}
+
+/* .body > img {
+    margin: 16px -24px 16px;
+    width: calc(100% + 16px + 16px + 16px);
+  } */
